@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cornelias
 
-🚀 Senior Web & Mobile Developer | React, Node.js | Flutter, Android | SaaS Systems Builder | Product-Focused Engineer  
+🚀 Web & Mobile Developer | React, Node.js | Flutter, Android | SaaS Systems Builder | Product-Focused Engineer  
 📍 Centurion, Pretoria, South Africa  
 🌐 Portfolio: https://cornelias.dev  
 
